@@ -142,7 +142,6 @@
     <Content Include="images\BSLogoN.png" />
     <Content Include="images\category2.jpg" />
     <Content Include="images\banner9.jpg" />
-    <Content Include="blog.html" />
     <Content Include="css\animate.min.css" />
     <Content Include="css\bootstrap-grid.css" />
     <Content Include="css\bootstrap-grid.min.css" />
